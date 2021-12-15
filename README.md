@@ -8,7 +8,7 @@
   </p>
 </p>
 
-### 👨‍💻 I'm working at [Devhouse Spindle](https://wearespindle.com/)!
+### 👨‍💻 I'm working at [Stekz](https://stekz.com/)!
 
 ### ⚡ Technologies
 
